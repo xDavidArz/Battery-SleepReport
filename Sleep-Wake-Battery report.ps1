@@ -9,8 +9,8 @@
 
 
 
-Ctrl + A then Paste into PowerShell Admin Window
-Everything below this line is the script
+Ctrl + A then Paste into PowerShell Admin Window or run ps1 file in PowerShell
+Everything below this line is the script 
 #>
 
 
